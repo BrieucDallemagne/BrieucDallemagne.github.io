@@ -1,8 +1,8 @@
 ---
-layout: Hobby's
+layout: post
 title: cherche titre
 subtitle: cherche sous titre
 comments: true
 ---
 
-Ou vais-je apparaitre ?
+I don't know yet what i will do with this but it seems fun.
