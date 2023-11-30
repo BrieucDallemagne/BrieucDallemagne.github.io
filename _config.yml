@@ -22,7 +22,7 @@ author: Brieuc Dallemagne
 navbar-links:
   About Me: "aboutme"
   chess: "chess"
-  Ingeneering: "Ingeneering"
+  ingeneering: "ingeneering"
   Rock: "rock"
   random: "random"
 
@@ -52,7 +52,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "brieuc1160@gmail.com.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  rss: false  # remove this line if you don't want to show an RSS link at the bottom
   facebook: Brieuc Dallemagne
   github: BrieucDallemagne
 
