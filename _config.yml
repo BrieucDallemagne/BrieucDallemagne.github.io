@@ -21,6 +21,10 @@ author: Brieuc Dallemagne
 
 navbar-links:
   About Me: "aboutme"
+  chess: "chess"
+  Ingeneering: "ingeneering"
+  Rock: "rock"
+
 
 ################
 # --- Logo --- #
