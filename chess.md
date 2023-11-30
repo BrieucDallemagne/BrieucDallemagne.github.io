@@ -10,3 +10,8 @@ comments: true
 
 # how to never getting bored while playing chess
 Push your pawns
+
+# How to improve ?
+- stop taking shower   
+- stop talking to human   
+- study chess (optional)   

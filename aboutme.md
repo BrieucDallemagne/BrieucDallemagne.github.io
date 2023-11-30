@@ -4,4 +4,4 @@ title: About me
 subtitle: GG you found the first page i modified,are you stalking me ?
 ---
 
-My name is Brieuc Dallemagne, i'm an Engineer student at Uclouvain and i don't know what i will do with this page
+My name is Brieuc Dallemagne and i don't know what i will do with this page but don't hope to find something interesting here.
