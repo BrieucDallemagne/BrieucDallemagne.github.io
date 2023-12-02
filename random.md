@@ -9,7 +9,7 @@ comments: true
 - "TheGreatReview"   
 - "Axel Arno"   
 
-# Best books i've read:
+# Best books I've read:
 - Harry Potter (read it don't watch it)
 - Thus Spoke Zarathustra   
 - Lève toi et code   

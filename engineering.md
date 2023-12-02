@@ -6,12 +6,13 @@ comments: true
 ---
 
 # My options:
-applied mathematics and Computer Engineering
+Applied Mathematics and Computer Science Engineering
 
-# Here is a ranking of my favourite programming languages because my opinion is better than yours
+# Here is a ranking of my favourite programming languages because my opinion is better than yours   
+
 1) Python   
 - it's easy   
-- first language i learned   
+- first language I learned   
 - best language for processing data   
 2) Bash   
 - it's fun   
@@ -21,7 +22,7 @@ applied mathematics and Computer Engineering
 4) Java   
 - Java > C   
 5) C   
-- worst regular programming language that i learned   
+- worst regular programming language that Is learned   
 - in fact not bad but i still see segfault in my dreams   
 6) OZ   
 - trauma is still present
